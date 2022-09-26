@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hello World! 👋
 
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p>
+  <em>Industrial Enginner at <a href="https://unmsm.edu.pe/">National University of San Marcos</a>
+   I’m currently working on </br>Software Developer Jr. at <a href="https://www.deister.net/">Deister Software</a>
+  </em>
+</p>
 <!--
 **DiegoMitari/DiegoMitari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
