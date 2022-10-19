@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 
-<img align='right' src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="230">
+<img align='right' src="" width="230">
 <p>
    My name is Diego Mitma Ariza, from Lima, Perú.
 </p>
@@ -20,7 +20,8 @@
      askMeAbout: ["Web Developer", "Frontend Developer", "JavaScript Developer"],
      technologies: {
          frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-         backend: ["Flask", "JS"],
+         backend:  ["NodeJS"],
+         design:   ["Figma"]
      }
    }
 ```
