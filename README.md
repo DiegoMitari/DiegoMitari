@@ -18,9 +18,9 @@
      code: ["Javascript", "Python", "HTML", "CSS", "C++"],
      askMeAbout: ["Web Developer", "Frontend Developer", "JavaScript Developer"],
      technologies: {
-         frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-         backend:  ["NodeJS"],
-         design:   ["Figma"]
+         Frontend: ["React", "HTML", "CSS", "JS", "Bootstrap", ""],
+         Backend:  ["NodeJS", "SQL"],
+         Design:   ["Figma"]
      }
    }
 ```
