@@ -1,7 +1,6 @@
 ### Hello World! 👋
 
 
-<img align='right' src="" width="230">
 <p>
    My name is Diego Mitma Ariza, from Lima, Perú.
 </p>
