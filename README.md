@@ -8,7 +8,7 @@
    I'm Industrial Enginner at <a href="https://unmsm.edu.pe/">National University of San Marcos</a>
 </p>
 <p>
-   I’m currently working on Software Developer Jr. at <a href="https://www.deister.net/">Deister Software</a>
+   I’m currently working as Software Developer Jr. at <a href="https://www.deister.net/">Deister Software</a>
 </p>
 
  ## Stack & Technologies 💻
