@@ -15,12 +15,12 @@
  
  ```javascript
    const DiegoMitari = {
-     code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-     askMeAbout: ["Web Developer", "Frontend Developer", "JavaScript Developer"],
-     technologies: {
-         Frontend: ["React", "HTML", "CSS", "JS", "Bootstrap", "Tailwind CSS"],
-         Backend:  ["NodeJS", "SQL"],
-         Design:   ["Figma"]
+     code         : ["Javascript", "Python", "HTML", "CSS", "C++"],
+     askMeAbout   : ["Web Developer", "Frontend Developer", "JavaScript Developer"],
+     technologies : {
+         Frontend : ["React", "HTML", "CSS", "JS", "Bootstrap", "Tailwind CSS"],
+         Backend  : ["NodeJS", "SQL"],
+         Design   : ["Figma"]
      }
    }
 ```
@@ -28,7 +28,7 @@
  ## Connect with me 🌐
  
  <p align="center">
-     <a href="https://github.com/DiegoMitari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-     <a href="https://www.instagram.com/diegomitari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+     <a href="https://www.linkedin.com/in/diegomitari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+     <a href="https://www.instagram.com/diegomitari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
