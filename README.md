@@ -8,14 +8,14 @@
    I'm Industrial Enginner at <a href="https://unmsm.edu.pe/">National University of San Marcos</a>
 </p>
 <p>
-   I’m currently working as Software Developer Jr. at <a href="https://www.deister.net/">Deister Software</a>
+   Currently I’m working as Software Developer Jr. at <a href="https://www.deister.net/">Deister Software</a>
 </p>
 
  ## Stack & Technologies 💻
  
  ```javascript
    const DiegoMitari = {
-     code         : ["Javascript", "Python", "HTML", "CSS", "C++"],
+     code         : ["Javascript", , "HTML", "CSS", "C++"],
      askMeAbout   : ["Web Developer", "Frontend Developer", "JavaScript Developer"],
      technologies : {
          Frontend : ["React", "HTML", "CSS", "JS", "Bootstrap", "Tailwind CSS"],
