@@ -18,9 +18,10 @@
      code         : ["Javascript", , "HTML", "CSS", "C++"],
      askMeAbout   : ["Web Developer", "Frontend Developer", "JavaScript Developer"],
      technologies : {
-         Frontend : ["React", "HTML", "CSS", "JS", "Bootstrap", "Tailwind CSS"],
-         Backend  : ["NodeJS", "SQL"],
-         Design   : ["Figma"]
+         Testing : ["Selenium", "Postman"]
+         Web     : ["React", "HTML", "CSS", "JS", "Bootstrap", "Tailwind CSS"],
+         Backend : ["NodeJS", "SQL"],
+         Others  : ["Jira", "VS Code", "Slack"]
      }
    }
 ```
